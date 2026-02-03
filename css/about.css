@@ -1,8 +1,5 @@
 
-/* styles of about us */
-/* =========================================
-   1. General Reset & Core Styles
-   ========================================= */
+
 * {
     margin: 0;
     padding: 0;
@@ -18,9 +15,7 @@ body {
     overflow-x: hidden;
 }
 
-/* =========================================
-   2. Navigation (Transparent -> White)
-   ========================================= */
+
 .navbar {
     display: flex;
     justify-content: space-between;
